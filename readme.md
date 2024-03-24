@@ -13,7 +13,7 @@
 ## Критерии
 - Есть описание ✅
 - Есть скриншоты ✅
-- Прикреплен [APK-файл](./build/app/outputs/flutter-apk/app-release.apk) ✅
+- Прикреплен [APK-файл](./app.apk) ✅
 - Работает на Android ✅
 
 - Реализован основной экран и [получение данных из удаленного API](./lib/services/news_service.dart) ✅
